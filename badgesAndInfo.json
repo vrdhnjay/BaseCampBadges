@@ -1,0 +1,183 @@
+{
+  "badges": {
+    "fish_catching_milestones": {
+      "FIRST_CATCH": {
+        "id": 1987876373790334,
+        "description": "First fish caught"
+      },
+      "FISHING_NOVICE": {
+        "id": 4398876698324316,
+        "description": "Catch 10 fish"
+      },
+      "FISHING_ENTHUSIAST": {
+        "id": 0,
+        "description": "Catch 50 fish"
+      },
+      "MASTER_ANGLER": {
+        "id": 0,
+        "description": "Catch 100 fish"
+      },
+      "FISHING_LEGEND": {
+        "id": 0,
+        "description": "Catch 500 fish"
+      },
+      "FISHING_GOD": {
+        "id": 0,
+        "description": "Catch 1,000 fish"
+      }
+    },
+    "special_fish_badges": {
+      "SHINY_HUNTER": {
+        "id": 945578996539449,
+        "description": "First shiny fish"
+      },
+      "RAINBOW_FISHER": {
+        "id": 0,
+        "description": "First rainbow fish"
+      },
+      "DOUBLE_LUCKY": {
+        "id": 0,
+        "description": "Both shiny and rainbow"
+      },
+      "RARE_CATCH": {
+        "id": 0,
+        "description": "First rare fish"
+      },
+      "ULTRA_RARE_CATCH": {
+        "id": 0,
+        "description": "First ultra rare fish"
+      }
+    },
+    "collection_badges": {
+      "COLLECTOR": {
+        "id": 0,
+        "description": "25% of fish index"
+      },
+      "ADVANCED_COLLECTOR": {
+        "id": 0,
+        "description": "50% of fish index"
+      },
+      "EXPERT_COLLECTOR": {
+        "id": 0,
+        "description": "75% of fish index"
+      },
+      "COMPLETIONIST": {
+        "id": 2457551644963528,
+        "description": "100% of fish index"
+      }
+    },
+    "economic_badges": {
+      "FIRST_SALE": {
+        "id": 0,
+        "description": "First fish sold"
+      },
+      "MONEY_MAKER": {
+        "id": 0,
+        "description": "Earn 1,000 money"
+      },
+      "RICH_FISHER": {
+        "id": 0,
+        "description": "Earn 10,000 money"
+      },
+      "FISHING_TYCOON": {
+        "id": 0,
+        "description": "Earn 100,000 money"
+      },
+      "FISHING_MILLIONAIRE": {
+        "id": 0,
+        "description": "Earn 1,000,000 money"
+      }
+    },
+    "rod_progression_badges": {
+      "ROD_UPGRADE": {
+        "id": 0,
+        "description": "First new rod"
+      },
+      "ROD_ENTHUSIAST": {
+        "id": 0,
+        "description": "Own 3 rods"
+      },
+      "ROD_MASTER": {
+        "id": 0,
+        "description": "Own all rods"
+      }
+    },
+    "playtime_badges": {
+      "HOOKED": {
+        "id": 0,
+        "description": "Play for 1 hour"
+      },
+      "DEDICATED_FISHER": {
+        "id": 0,
+        "description": "Play for 5 hours"
+      },
+      "FISHING_ADDICT": {
+        "id": 0,
+        "description": "Play for 24 hours"
+      },
+      "FISHING_IS_LIFE": {
+        "id": 0,
+        "description": "Play for 100 hours"
+      }
+    },
+    "leaderboard_badges": {
+      "TOP_100": {
+        "id": 0,
+        "description": "Appear on any leaderboard"
+      },
+      "TOP_50": {
+        "id": 0,
+        "description": "Top 50 on any leaderboard"
+      },
+      "TOP_10": {
+        "id": 0,
+        "description": "Top 10 on any leaderboard"
+      },
+      "NUMBER_ONE": {
+        "id": 0,
+        "description": "First place on any leaderboard"
+      }
+    },
+    "miscellaneous_achievements": {
+      "BIG_CATCH": {
+        "id": 0,
+        "description": "Fish over 10kg"
+      },
+      "BULK_SELLER": {
+        "id": 191842073102841,
+        "description": "Sell 10+ fish at once"
+      },
+      "LUCKY_DAY": {
+        "id": 0,
+        "description": "3 special fish in one session"
+      }
+    }
+  },
+  "unlocked_badges": [
+    {
+      "name": "FIRST_CATCH",
+      "id": 1987876373790334,
+      "category": "fish_catching_milestones"
+    },
+    {
+      "name": "FISHING_NOVICE",
+      "id": 4398876698324316,
+      "category": "fish_catching_milestones"
+    },
+    {
+      "name": "SHINY_HUNTER",
+      "id": 945578996539449,
+      "category": "special_fish_badges"
+    },
+    {
+      "name": "COMPLETIONIST",
+      "id": 2457551644963528,
+      "category": "collection_badges"
+    },
+    {
+      "name": "BULK_SELLER",
+      "id": 191842073102841,
+      "category": "miscellaneous_achievements"
+    }
+  ]
+}
